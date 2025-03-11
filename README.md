@@ -1,4 +1,4 @@
-# Alon Kellner
+# Troy Cheng
 
 <img src="assets/img/headshot.png" alt="that's me!" width="200"/>
 
