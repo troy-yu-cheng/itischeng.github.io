@@ -1,5 +1,5 @@
 ---
-lang: he-il
+lang: cn
 page_id: about
 layout: about
 title: על עצמי
